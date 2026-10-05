@@ -39,7 +39,7 @@ Config.Fleet = {                                            -- Liste des véhicu
 }
 
 Config.Durations = { -- Liste des durées de location disponibles
-    { id = "4m",  label = "4 min",    minutes = 4,   mult = 1.0 },
+    { id = "15m", label = "15 min",   minutes = 15,  mult = 1.0 },
     { id = "30m", label = "30 min",   minutes = 30,  mult = 1.8 },
     { id = "1h",  label = "1 heure",  minutes = 60,  mult = 3.2 },
     { id = "2h",  label = "2 heures", minutes = 120, mult = 5.5 }
